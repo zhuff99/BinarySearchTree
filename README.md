@@ -101,6 +101,8 @@ Bid successfully removed.
 Enter choice: 9
 Exiting program...
 
+```
+
 
 ### Technologies Used
 Language: C++

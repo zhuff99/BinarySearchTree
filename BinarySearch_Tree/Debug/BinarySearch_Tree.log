@@ -1,0 +1,7 @@
+﻿  BinarySearch_Tree.cpp
+C:\Users\Zachary\source\repos\BinarySearch_Tree\BinarySearch_Tree\BinarySearch_Tree.cpp(53,5): error C2059: syntax error: 'if'
+C:\Users\Zachary\source\repos\BinarySearch_Tree\BinarySearch_Tree\BinarySearch_Tree.cpp(54,49): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Zachary\source\repos\BinarySearch_Tree\BinarySearch_Tree\BinarySearch_Tree.cpp(59,5): error C2059: syntax error: 'if'
+C:\Users\Zachary\source\repos\BinarySearch_Tree\BinarySearch_Tree\BinarySearch_Tree.cpp(59,51): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Zachary\source\repos\BinarySearch_Tree\BinarySearch_Tree\BinarySearch_Tree.cpp(63,5): error C2059: syntax error: 'while'
+C:\Users\Zachary\source\repos\BinarySearch_Tree\BinarySearch_Tree\BinarySearch_Tree.cpp(63,29): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
